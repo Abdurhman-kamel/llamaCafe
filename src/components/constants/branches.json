@@ -1,0 +1,9 @@
+{
+    "kicker": "Global Presence",
+        "heading": "Our Locations",
+            "tagline": "Crafted in Saudi Arabia. Shared between Dammam & Dhahran.",
+                "list": [
+                    { "id": "01", "city": "Dammam", "address": "Kingdom of Saudi Arabia, Dammam" },
+                    { "id": "02", "city": "Dhahran", "address": "Kingdom of Saudi Arabia, Dhahran" }
+                ]
+}
